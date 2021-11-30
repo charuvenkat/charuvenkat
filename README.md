@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @charuvenkat
+- 👋 Hi, I’m @charulatha
 - 👀 I’m interested in ...Learning new tool
 - 🌱 I’m currently learning ...  Selenium Automation testing
 - 💞️ I’m looking to collaborate on ...team to achieve a goal by sharing ideas 
