@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @charulatha
 - 👀 I’m interested in ...Learning new tool
-- 🌱 I’m currently learning ...  Selenium Automation testing
+- 🌱 I’m currently learning ...  Test Automation Tool
 - 📫 How to reach me ...Charu.wins@gmail.com
 
 <!---
